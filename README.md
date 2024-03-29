@@ -1,6 +1,6 @@
 # Weather-App-
 
-So guys this is 13th project of my 30 days frontend project challenge.
+So guys this is 13th project of my 25 days frontend project challenge.
 
 This is something similar to weather forcast App.
 
